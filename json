@@ -30,21 +30,6 @@
           "text2": "Insta-ban will be given for:\r\nAny form of PVP'ing or stealing others\r\nAny form of racism, homophobic or trash talk.\r\nAny form of hacking / cheating / exploiting.\r\n",
           "imageurl": ""
         }
-      },
-      {
-        "tab4": {
-          "layout": 4,
-          "buttontext": "4 box layout",
-          "title1": "Top left title",
-          "title2": "Top right title",
-          "title3": "bottom left title",
-          "title4": "bottom right title",
-          "text1": "This text goes into the top left box",
-          "text2": "This text goes into the top right box",
-          "text3": "This text goes into the bottom left box",
-          "text4": "This text goes into the bottom right box",
-          "imageurl": ""
-        }
       }
     ],
     "links": [
