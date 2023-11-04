@@ -4,8 +4,8 @@
         "OpenButton": 0,
         "HideIcon": false,
         "HideIconAfter": 60,
-        "IconURL": "https://i.ibb.co/RYVFjqb/discord-Logo.png",
-        "DisableIconText": false,
+        "IconURL": "https://i.ibb.co/7XTSzkK/server-Web-Logo.png",
+        "DisableIconText": true,
         "OpenOnStart": true,
         "OpenOnStartOnlyNewPlayers": true,
         "UpdateInterval": 12
