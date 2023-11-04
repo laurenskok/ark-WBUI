@@ -7,7 +7,7 @@
         "IconURL": "https://i.ibb.co/7XTSzkK/server-Web-Logo.png",
         "DisableIconText": true,
         "OpenOnStart": true,
-        "OpenOnStartOnlyNewPlayers": true,
+        "OpenOnStartOnlyNewPlayers": false,
         "UpdateInterval": 12
       },
     "tabs": [
