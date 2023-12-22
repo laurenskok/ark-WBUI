@@ -15,12 +15,14 @@
         "tabs": [
             {
                 "tab1": {
-                    "layout": 2,
+                    "layout": 3,
                     "buttontext": "Welcome",
                     "title1": "Welcome to StormArk x5 PVE",
                     "text1": "We're absolutely delighted to have you with us. To ensure a fantastic gaming experience, please take a moment to follow these steps:\r\n\r\n1. Server Rules: Click on the 'Server Rules' button to familiarize yourself with our community guidelines. This ensures a respectful and enjoyable environment for all players.\r\n\r\n2. Join Our Discord: By clicking the 'Discord' button, you can connect with fellow players, stay updated on announcements, and seek assistance from our friendly staff.\r\n\r\nWe're committed to creating a welcoming and exciting atmosphere here at StormArk, and your involvement is vital to achieving that. So, let's embark on this epic journey together and make lasting memories in the world of StormArk! Enjoy the game!",
                     "title2": "Server Settings",
                     "text2": "XP: x5\r\nGather: x5\r\nTaming: x5\r\nBreeding: x5\r\nGestation: x20\r\nEgg Hatch: x15\r\nMax Dino Level Wild: 150",
+                    "title3": "Server keybindings",
+                    "text3": "F1: Open info screen\r\n\r\nF2: Voting screen\r\n\r\nF3: Shop\r\n\r\nF4: Rate our community\r\n\r\nF5: Report an issue",
                     "imageurl": ""
                 }
             },
