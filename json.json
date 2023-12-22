@@ -15,10 +15,12 @@
         "tabs": [
             {
                 "tab1": {
-                    "layout": 1,
+                    "layout": 2,
                     "buttontext": "Welcome",
                     "title1": "Welcome to StormArk x25 PVE",
                     "text1": "We're absolutely delighted to have you with us. To ensure a fantastic gaming experience, please take a moment to follow these steps:\r\n1. Server Rules: Click on the 'Server Rules' button to familiarize yourself with our community guidelines. This ensures a respectful and enjoyable environment for all players.\r\n2. Join Our Discord: By clicking the 'Discord' button, you can connect with fellow players, stay updated on announcements, and seek assistance from our friendly staff.\r\nWe're committed to creating a welcoming and exciting atmosphere here at StormArk, and your involvement is vital to achieving that. So, let's embark on this epic journey together and make lasting memories in the world of StormArk! Enjoy the game!",
+                    "title2": "Server Settings",
+                    "text2": "XP: x10\r\nGather: x25\r\nTaming: x15\r\nBreeding: x25\r\nGestation: x50\r\nEgg Hatch: x25\r\nMax Dino Level Wild: 300",
                     "imageurl": ""
                 }
             },
