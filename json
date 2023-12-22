@@ -1,44 +1,52 @@
 {
-  "WBUI2": {
-    "settings": {
-        "OpenButton": 0,
-        "HideIcon": false,
-        "HideIconAfter": 60,
-        "IconURL": "https://i.imgur.com/bt24maZ.png",
-        "DisableIconText": true,
-        "OpenOnStart": true,
-        "OpenOnStartOnlyNewPlayers": false,
-        "UpdateInterval": 12
-      },
-    "tabs": [
-      {
-        "tab1": {
-          "layout": 1,
-          "buttontext": "Welcome",
-          "title1": "Welcome to StormArk x25 PVE",
-          "text1": "We're absolutely delighted to have you with us. To ensure a fantastic gaming experience, please take a moment to follow these steps:\r\n1. Server Rules: Click on the 'Server Rules' button to familiarize yourself with our community guidelines. This ensures a respectful and enjoyable environment for all players.\r\n2. Join Our Discord: By clicking the 'Discord' button, you can connect with fellow players, stay updated on announcements, and seek assistance from our friendly staff.\r\nWe're committed to creating a welcoming and exciting atmosphere here at StormArk, and your involvement is vital to achieving that. So, let's embark on this epic journey together and make lasting memories in the world of StormArk! Enjoy the game!",
-          "imageurl": ""
-        }
-      },
-      {
-        "tab2": {
-          "layout": 2,
-          "buttontext": "Server Rules",
-          "title1": "General Server Rules",
-          "title2": "Insta-ban",
-          "text1": "1. Please refrain from obstructing player spawns. If a player spawns inside your base, it's mandatory to ensure there's a clear and easy path out of your base for them.\r\n2. Avoid blocking the spawn points for loot crates, beacons, and explorer notes, and do not hinder other players' access to them.\r\n3. Do not engage in cheating or exploiting game bugs or mods. This includes the use of indestructible player-crafted structures to create bottlenecks or alter the fundamental map design.\r\n4. Maintain a respectful and civil environment in global chat and on the server Discord. This extends to aliases and character names, and excessive cursing, racism, or hate speech is not tolerated. If conflicts arise, please take them to private messages.\r\n5. Show sportsmanship and respect towards other players by refraining from griefing, trolling, or harassing them. This includes refraining from stealing from others' containers, killing players and dinosaurs, luring aggressive dinosaurs to someone's base, or interrupting taming processes.\r\n6. Ensure that your tamed dinosaurs do not wander outside of your base.\r\n7. Do not engage in excessive foundation, pillar, or structure placement. Only build where you are actively playing.\r\n8. Bases are limited to only 1 per tribe, 1 outpost is allowed.\r\n9. Please remove taming pens after the tame is done, otherwise they will be wiped upon sight.\r\n10. Help your fellow survivors and contribute to the community <3\r\n",
-          "text2": "Insta-ban will be given for:\r\nAny form of PVP'ing or stealing others\r\nAny form of racism, homophobic or trash talk.\r\nAny form of hacking / cheating / exploiting.\r\n",
-          "imageurl": ""
-        }
-      }
-    ],
-    "links": [
-      {
-        "link1": {
-          "text": "Join discord",
-          "url": "https://dsc.gg/stormark"
-        }
-      }
-    ]
-  }
+    "WBUI2": {
+        "settings": {
+            "OpenButton": 0,
+            "HideIcon": false,
+            "HideIconAfter": 60,
+            "IconURL": "https://i.imgur.com/bt24maZ.png",
+            "DisableIconText": true,
+            "IconPosition": 0,
+            "IconTextColor": 0,
+            "OpenOnStart": true,
+            "OpenOnStartOnlyNewPlayers": false,
+            "UpdateInterval": 12
+        },
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 1,
+                    "buttontext": "Welcome",
+                    "title1": "Welcome to StormArk x25 PVE",
+                    "text1": "We're absolutely delighted to have you with us. To ensure a fantastic gaming experience, please take a moment to follow these steps:\r\n1. Server Rules: Click on the 'Server Rules' button to familiarize yourself with our community guidelines. This ensures a respectful and enjoyable environment for all players.\r\n2. Join Our Discord: By clicking the 'Discord' button, you can connect with fellow players, stay updated on announcements, and seek assistance from our friendly staff.\r\nWe're committed to creating a welcoming and exciting atmosphere here at StormArk, and your involvement is vital to achieving that. So, let's embark on this epic journey together and make lasting memories in the world of StormArk! Enjoy the game!",
+                    "imageurl": ""
+                }
+            },
+            {
+                "tab2": {
+                    "layout": 3,
+                    "buttontext": "Server Rules",
+                    "title1": "General Server Rules",
+                    "title2": "Rules information",
+                    "title3": "Insta-ban",
+                    "text1": "Please refrain from obstructing player spawns. If a player spawns inside your base, it's mandatory to ensure there's a clear and easy path out of your base for them.\r\nAvoid blocking the spawn points for loot crates, beacons, and explorer notes, and do not hinder other players' access to them.\r\nDo not engage in cheating or exploiting game bugs or mods. This includes the use of indestructible player-crafted structures to create bottlenecks or alter the fundamental map design.\r\nMaintain a respectful and civil environment in global chat and on the server Discord. This extends to aliases and character names, and excessive cursing, racism, or hate speech is not tolerated. If conflicts arise, please take them to private messages.\r\nShow sportsmanship and respect towards other players by refraining from griefing, trolling, or harassing them. This includes refraining from stealing from others' containers, killing players and dinosaurs, luring aggressive dinosaurs to someone's base, or interrupting taming processes.\r\nEnsure that your tamed dinosaurs do not wander outside of your base.\r\nDo not engage in excessive foundation, pillar, or structure placement. Only build where you are actively playing.\r\nBases are limited to only 1 per tribe, 1 outpost is allowed.\r\nPlease remove taming pens after the tame is done, otherwise they will be wiped upon sight.\r\nYou should have a username ingame that doesn't contain human, mens, mensch, humano, ...; Having this will result in a tribe wipe.\r\nOffline breeding / hatching is not permitted, if spotted or reported with offline breeding the dino's will be removed by an admin without any refund. (Warning streak +1)\r\nMass hatching is not allowed while you are away from your base, even when you are playing. Hatched dino's should be claimed instantly or should be using the auto trap from the mod. (Warning streak +1)\r\nA dino limit will be present when going offline. You can have maximum 20 dino's outside; if you have more dino's out when you are offline an admin will randomly remove dino's untill the maximum of 20 is reached. (Warning streak +1)\r\nA maximum of 15 crop plots is allowed in your base (excluding Species X).\r\nEach tribe is allowed to have one (1) main base and one (1) outpost per map.\r\nGive your neighbours some breathing room. Don't build right next to them and leave a minimum space of 15 foundations between eachother.\r\nHelp your fellow survivors and contribute to the community <3",
+                    "text2": "Base information\r\nMain Base\r\nNo monstrous bases. If your base is impacting the gameplay of others (causing lag etc.), you will need to downsize. All structures within your main base area should be able to fully render from all sides. If you are on PC, The render distance setting is medium for our server\r\nOutpost\r\nOutposts are to be no bigger than 3 x 3 foundations and no more than 6 walls high. If a structure doesn't fit within the borders of the foundation, then it should not be at your outpost.\r\nIf spotted or reported in violation of the base rule your warning streak will go up by 1 and you will be contacted to adapt your base to fit the rule. If no response the entire base will be wiped, after 7 days.\r\n\r\nTribe signup\r\nTo be always aware of warnings given by the administrators we strongly advice to connect your Discord on our website with your character account. This way we can contact you via the Discord to point out the rules that are in violation.\r\n\r\nWarning System\r\n3 Streak 6 hours ban\r\n5 Streak 24 hours ban\r\n6 Streak Full wipe on all servers\r\nNext streaks? Perma ban",
+                    "text3": "Insta-ban will be given for:\r\nAny form of PVP'ing or stealing others\r\nAny form of racism, homophobic or trash talk.\r\nAny form of hacking / cheating / exploiting.\r\n",
+                    "imageurl": ""
+                }
+            }
+        ],
+        "links": [
+            {
+                "link1": {
+                    "text": "Join discord",
+                    "url": "https://dsc.gg/stormark"
+                },
+                "link2": {
+                    "text": "Website",
+                    "url": "https://stormark-gaming.com"
+                }
+            }
+        ]
+    }
 }
