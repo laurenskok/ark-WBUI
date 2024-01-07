@@ -22,7 +22,7 @@
                     "title2": "Server Settings",
                     "text2": "XP: x10\r\nGather: x25\r\nTaming: x15\r\nBreeding: x25\r\nGestation: x50\r\nEgg Hatch: x25\r\nMax Dino Level Wild: 300",
                     "title3": "Server keybindings",
-                    "text3": "F1: Open info screen\r\n\r\nF2: Voting screen\r\n\r\nF3: Shop\r\n\r\nF4: Rate our community\r\n\r\nF5: Report an issue",
+                    "text3": "F1: Open info screen\r\n\r\nF2: Voting screen\r\n\r\nF3: Shop\r\n\r\nF4: Rate our community\r\n\r\nF5: Report an issue\r\n\r\n(!) Console players will not be able to open the shop ingame, you can user the web shop instead.",
                     "imageurl": ""
                 }
             },
